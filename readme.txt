@@ -4,4 +4,5 @@ git has a mutable index called stage.
 git tracks changes.
 git tracks of files.
 creating a new branch is quick and simple.
+doudou is my favorite dog.
 
