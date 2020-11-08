@@ -5,5 +5,6 @@ git has a mutable index called stage.
 git tracks changes of files.
 My dog's name is doudou.
 My stupid boss prefers SVN.
+I love my cat.
 
 
