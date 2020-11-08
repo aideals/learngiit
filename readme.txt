@@ -6,4 +6,5 @@ git tracks changes of files.
 My dog's name is doudou.
 My stupid boss prefers SVN.
 I love my dog.
+I love my cat.
 
