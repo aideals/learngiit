@@ -7,4 +7,5 @@ My dog's name is doudou.
 My stupid boss prefers SVN.
 I love my dog.
 I love my cat.
+My stupid tongshi is a bangchui.
 
